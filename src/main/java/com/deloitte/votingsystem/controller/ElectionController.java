@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.deloitte.votingsystem.model.Election;
 import com.deloitte.votingsystem.service.ElectionService;
 
-
+//controller
 @RestController
 @RequestMapping("/election")
 public class ElectionController {
